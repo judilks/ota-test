@@ -1,0 +1,8 @@
+diff a/test b/test	(rejected hunks)
+@@ -7,3 +7,5 @@
+ 
+ Nipun's edit
+ This is a new change
++
++Fahmida Edit
+\ No newline at end of file
